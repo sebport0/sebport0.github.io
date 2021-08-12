@@ -1,16 +1,26 @@
 ---
 layout: page
-title: ¿Quién escribe?
+title: Is there a human?
 permalink: /about/
 ---
 
-Mi nombre es Samuel Esteban Bassi. No soy más que un simple curioso. Este blog constituye un pequeño esfuerzo para: 
+Hi! My name is Samuel Esteban Bassi. I'm just a curious guy from Argentina that got lost on The Land of Software. This blog tries to:
 
-1. Agradecer a todas las personas(físicas y virtuales) que me ayudaron, ayudan y ayudarán 
-   a lo largo del camino.
-2. Intentar colaborar con un ínfimo grano de arena en la difusión abierta, gratuita y
-    en español del conocimiento. 
-3. Compartir experimentos.
-4. Pulir mis habilidades comunicacionales(no es que me sobren precisamente).
+1. Scream "Thank you so much! You are the best people in the world" to all the people that helped,
+   helps and will help me in this adventure across The Land of Software.
+2. Share knowledge bits, openly and for free. Directly related to 1.
+3. Improve my writing skills(english edition).
 
-Cualquier sugerencia o corrección es más que bienvenida(¡será puesta a prueba!).
+Things that interest me:
+ - Serverless stuff
+ - Python
+ - Go
+ - AWS
+ - Software Architecture
+ - Monitoring
+ - Mathematics
+ - Running.
+
+All comments and corrections are welcome.
+
+Have a nice day!

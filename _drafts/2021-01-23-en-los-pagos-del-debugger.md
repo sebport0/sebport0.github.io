@@ -3,6 +3,8 @@ layout: post
 title:  En los pagos del debugger
 mathjax: true
 categories: [Python]
+lang: es
+ref: pydebugger
 ---
 
 Nunca usé el debugger de python en este año y siete meses que 

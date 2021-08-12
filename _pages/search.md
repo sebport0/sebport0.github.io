@@ -5,7 +5,7 @@ permalink: /search/
 ---
 
 <div id="search-container">
-    <input type="text" id="search-input" placeholder="Buscar contenido en los posts...">
+    <input type="text" id="search-input" placeholder="Search...">
     <ul id="results-container"></ul>
 </div>
 
